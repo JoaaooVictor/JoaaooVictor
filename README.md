@@ -1,16 +1,23 @@
-### Hi there 👋
+# Olá, eu sou o João Victor!
 
-<!--
-**JoaaooVictor/JoaaooVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Atualmente não trabalho com desenvolvimento, mas estou em busca da minha colocação no mercado tech.
+📚 Estudo no Centro Universitário UNIFAAT, onde aprendo C#, CSS, HTML, SQL.
 
-Here are some ideas to get you started:
+ <div align="center">
+  <a href="https://github.com/JoaaooVictor">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaaooVictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaaooVictor&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
+ 
+  <div>
+    
+  <a href="https://www.instagram.com/jojs_victor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/jotiinha_fps" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joao.adm.etec@outlook.com"><img src="https://img.shields.io/badge/-OUTLOOK-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joão-victor-872521221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
