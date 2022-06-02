@@ -1,7 +1,7 @@
 #  <h1> Olá, eu sou o João Victor! </h1>
 
 <p> - 💻 Atualmente não trabalho com desenvolvimento, mas estou em busca da minha colocação no mundo tech. </p>
-<p> - 📚 Estudo no Centro Universitário UNIFAAT, onde aprendo C#, CSS, HTML, SQL. </p>
+<p> - 📚 Estudo no Centro Universitário UNIFAAT, onde aprendo C#, CSS, HTML, SQL, até então. </p>
 <p> - 📊 Tenho interesse em trabalhar com Front-End, Back-End e Desenvolvimento Web.
 
  <div align="center">
@@ -9,15 +9,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaaooVictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaaooVictor&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
- 
-  <div>
-    
-  <a href="https://www.instagram.com/jojs_victor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/jotiinha_fps" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joao.adm.etec@outlook.com"><img src="https://img.shields.io/badge/-OUTLOOK-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-victor-872521221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
+  
+  <div style="display: inline_block" align = "center"><br>
+  <img align="center" alt="joao-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
+  <img align="center" alt="joao-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="joao-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="joao-SQL" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="joao-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <img align="center" alt="joao-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 
 
