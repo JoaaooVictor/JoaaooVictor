@@ -1,7 +1,8 @@
-# Olá, eu sou o João Victor!
+#  <h1> Olá, eu sou o João Victor! </h1>
 
-💻 Atualmente não trabalho com desenvolvimento, mas estou em busca da minha colocação no mercado tech.
-📚 Estudo no Centro Universitário UNIFAAT, onde aprendo C#, CSS, HTML, SQL.
+<p> - 💻 Atualmente não trabalho com desenvolvimento, mas estou em busca da minha colocação no mundo tech. </p>
+<p> - 📚 Estudo no Centro Universitário UNIFAAT, onde aprendo C#, CSS, HTML, SQL. </p>
+<p> - 📊 Tenho interesse em trabalhar com Front-End, Back-End e Desenvolvimento Web.
 
  <div align="center">
   <a href="https://github.com/JoaaooVictor">
