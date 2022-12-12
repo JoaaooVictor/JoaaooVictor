@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaaooVictor&layout=compact&hide_border=true&title_color=0077FFtext_color=ff91a4&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JoaaooVictor&bg_color=1a1f35&color=1546ee&line=1546ee&point=1546ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
  <div align="center">
   <img align="center" alt="Joao-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joao-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
