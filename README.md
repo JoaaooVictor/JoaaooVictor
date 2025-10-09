@@ -15,12 +15,6 @@
     <img align="center" alt="Joao-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <div/>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JoaaooVictor}/count.svg" /></p> 
-<br>
-</div>
-
 <div align="center"> 
 <a href="https://instagram.com/jojs_victor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:joao.adm.etec@outlook.com"> <img src="https://img.shields.io/badge/-OUTLOOK-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
